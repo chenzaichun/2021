@@ -6,8 +6,13 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 1034 (天) | 0 | NO |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 1 | YES |
+| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 40 (个) | 1 | YES |
+| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 32 (个) | 1 | YES |
+| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 60 (个) | 1 | YES |
+| [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 240 (秒) | 1 | YES |
+| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 40 (个) | 1 | YES |
+| [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
