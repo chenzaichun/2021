@@ -6,6 +6,9 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
+| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 1034 (天) | 0 | NO |
+| [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 1 | YES |
+
 <!--END_SECTION:my_number-->
 
 ## 跑步
