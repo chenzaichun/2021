@@ -172,7 +172,7 @@ LABEL_DAILY_DICT = {
     "哑铃侧平举": [LATERAL_DUMBELL_RAISE_LABEL_LIST, comment_to_int, sum],
     "平板支撑": [PLANK_LABEL_LIST, comment_to_int, sum],
     "全蹲/深蹲": [SQUAT_LABEL_LIST, comment_to_int, sum],
-    # "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
+    "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
     # "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     # "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
     # "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
