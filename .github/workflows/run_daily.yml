@@ -6,8 +6,8 @@ on:
     - cron: "0 0,13 * * *"
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: chenzaichun
+  GITHUB_EMAIL: chenzaichun@gmail.com
 
 jobs:
   build:
