@@ -15,6 +15,11 @@ from .config import (
     WEEKLY_LABEL_LIST,
     MORNING_LABEL_LIST,
     PUSHUP_LABEL_LIST,
+    SQUAT_LABEL_LIST,
+    PLANK_LABEL_LIST,
+    CRUNCHY_LABEL_LIST,
+    LATERAL_DUMBELL_RAISE_LABEL_LIST,
+    DUMBELL_PRESS_LABEL_LIST,
 )
 
 
@@ -162,8 +167,13 @@ def comment_to_GTD_count(comment):
 LABEL_DAILY_DICT = {
     # label, map_func, reduce_func
     "俯卧撑": [PUSHUP_LABEL_LIST, comment_to_int, sum],
-    "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
-    "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
-    "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
-    "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
+    "卷腹": [CRUNCHY_LABEL_LIST, comment_to_int, sum],
+    "哑铃卧推": [DUMBELL_PRESS_LABEL_LIST, comment_to_int, sum],
+    "哑铃侧平举": [LATERAL_DUMBELL_RAISE_LABEL_LIST, comment_to_int, sum],
+    "平板支撑": [PLANK_LABEL_LIST, comment_to_int, sum],
+    "全蹲/深蹲": [SQUAT_LABEL_LIST, comment_to_int, sum],
+    # "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
+    # "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
+    # "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
+    # "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
 }
