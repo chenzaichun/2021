@@ -67,9 +67,13 @@ def main(
             break
 
         issues = u.get_repo(repo_name).get_issues(labels=labels)
-        total_data, streak, today_check, url, month_summary_dict = func(
-            issues, map_func, reduce_func
-        )
+        try: 
+            total_data, streak, today_check, url, month_summary_dict = func(
+                issues, map_func, reduce_func
+            )
+        except ValueError:
+            continue
+
         # change the issue body for month summary
         unit = value_dict.get("unit_str", "")
         for i in issues:
