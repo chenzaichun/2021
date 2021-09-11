@@ -24,6 +24,10 @@
 ## 读书
 
 <!--START_SECTION:my_read-->
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《人间值得》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917324179) | 2021-09-11 | 2021-09-11 | 
+| [《恶意》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917349934) | 2021-09-11 | 2021-09-11 | 
 
 <!--END_SECTION:my_read-->
 
