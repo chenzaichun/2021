@@ -6,13 +6,13 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 1 | NO |
-| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 60 (个) | 1 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 32 (个) | 1 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 510 (个) | 1 | NO |
-| [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 240 (秒) | 1 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 60 (个) | 1 | NO |
-| [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 1 | NO |
+| [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
+| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 60 (个) | 0 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 32 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 510 (个) | 0 | NO |
+| [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 240 (秒) | 0 | NO |
+| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 60 (个) | 0 | NO |
+| [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
