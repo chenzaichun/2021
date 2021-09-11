@@ -20,3 +20,29 @@
 
 ![](https://raw.githubusercontent.com/chenzaichun/running_page/gh-pages/static/assets/github_2021.svg)
 
+
+## 读书
+
+<!--START_SECTION:my_read-->
+
+<!--END_SECTION:my_read-->
+
+## 刷剧
+
+<!--START_SECTION:my_drama-->
+<!--END_SECTION:my_drama-->
+
+## 追番
+
+<!--START_SECTION:my_bangumi-->
+<!--END_SECTION:my_bangumi-->
+
+## 观影
+
+<!--START_SECTION:my_movie-->
+<!--END_SECTION:my_movie-->
+
+## 游戏
+<!--START_SECTION:my_game-->
+<!--END_SECTION:my_game-->
+

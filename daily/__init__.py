@@ -23,7 +23,7 @@ MY_STATUS_DICT_FROM_COMMENTS = {
     "平板支撑": {"daily_func": get_info_from_issue_comments, "unit_str": " (秒)"},
     "全蹲/深蹲": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
     "冥想": {"daily_func": get_info_from_issue_comments, "unit_str": " (分钟)"},
-    # "早起": {"daily_func": get_info_from_issue_comments, "unit_str": " (天)"},
-    # "GTD": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
-    # "周记": {"daily_func": get_info_from_issue_comments, "unit_str": " (周)"},
+    "早起": {"daily_func": get_info_from_issue_comments, "unit_str": " (天)"},
+    "GTD": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
+    "周记": {"daily_func": get_info_from_issue_comments, "unit_str": " (周)"},
 }
