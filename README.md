@@ -36,10 +36,6 @@
 ## 刷剧
 
 <!--START_SECTION:my_drama-->
-| Name | Start | Update | 
- | ---- | ---- | ---- | 
-| [今天的起床时间是--2021-09-22 07:00:23.](https://github.com/chenzaichun/2021/issues/12#issuecomment-924449185) | 2021-09-21 | 2021-09-21 | 
-
 <!--END_SECTION:my_drama-->
 
 ## 追番
