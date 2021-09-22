@@ -78,6 +78,9 @@ def main(
         unit = value_dict.get("unit_str", "")
         for i in issues:
             body = ""
+            if not i.body:
+                continue
+
             for b in i.body.splitlines():
                 # from the summary table
                 if b.startswith("|"):
