@@ -50,5 +50,5 @@ jobs:
           commit-message: "Replace README"
           files: README.md
           rebase: 'true'
-          name: yihong0618 
-          email: zouzou0208@gmail.com
+          name: Chen, Zai-Chun
+          email: chenzaichun@gmail.com
