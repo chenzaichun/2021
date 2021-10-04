@@ -8,12 +8,12 @@
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
 | [卷腹](https://github.com/chenzaichun/2021/issues/3) | 120 (个) | 0 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 752 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 1410 (个) | 0 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 1232 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 2760 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 120 (个) | 0 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 1 (天) | 0 | NO |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 11 (天) | 3 | YES |
 
 <!--END_SECTION:my_number-->
 
@@ -29,7 +29,9 @@
  | ---- | ---- | ---- | 
 | [《人间值得》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917324179) | 2021-09-11 | 2021-09-11 | 
 | [《恶意》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917349934) | 2021-09-11 | 2021-09-11 | 
-| [《认知天性》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917393784) | 2021-09-11 | 2021-09-11 | 
+| [《认知天性》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917393784) | 2021-09-11 | 2021-10-01 | 
+| [《山茶文具店》](https://github.com/chenzaichun/2021/issues/8#issuecomment-932036318) | 2021-10-01 | 2021-10-01 | 
+| [《非暴力沟通》](https://github.com/chenzaichun/2021/issues/8#issuecomment-932156459) | 2021-10-01 | 2021-10-01 | 
 
 <!--END_SECTION:my_read-->
 
