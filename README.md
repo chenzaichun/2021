@@ -32,7 +32,7 @@
 | [《认知天性》](https://github.com/chenzaichun/2021/issues/8#issuecomment-917393784) | 2021-09-11 | 2021-10-01 | 
 | [《山茶文具店》](https://github.com/chenzaichun/2021/issues/8#issuecomment-932036318) | 2021-10-01 | 2021-10-01 | 
 | [《非暴力沟通》](https://github.com/chenzaichun/2021/issues/8#issuecomment-932156459) | 2021-10-01 | 2021-10-10 | 
-| [《当我谈跑步时，我在谈些什么》](https://github.com/chenzaichun/2021/issues/8#issuecomment-939430716) | 2021-10-10 | 2021-10-10 | 
+| [《当我谈跑步时，我在谈些什么》](https://github.com/chenzaichun/2021/issues/8#issuecomment-939430716) | 2021-10-10 | 2021-10-11 | 
 
 <!--END_SECTION:my_read-->
 
