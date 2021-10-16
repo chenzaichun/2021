@@ -7,7 +7,7 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
-| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 120 (个) | 0 | NO |
+| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 140 (个) | 1 | YES |
 | [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 1712 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 3210 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
