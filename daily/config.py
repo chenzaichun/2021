@@ -56,6 +56,10 @@ DUMBELL_PRESS_LABEL_LIST = [
     "DumbellPress"
 ]
 
+DUMBELL_ROW_LIST = [
+    "DumbbellRow"
+]
+
 MY_BLOG_REPO = "chenzaichun/chenzaichun.github.io"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"

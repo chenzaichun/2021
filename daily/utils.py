@@ -20,6 +20,7 @@ from .config import (
     CRUNCHY_LABEL_LIST,
     LATERAL_DUMBELL_RAISE_LABEL_LIST,
     DUMBELL_PRESS_LABEL_LIST,
+    DUMBELL_ROW_LIST,
 )
 
 
@@ -170,6 +171,7 @@ LABEL_DAILY_DICT = {
     "卷腹": [CRUNCHY_LABEL_LIST, comment_to_int, sum],
     "哑铃卧推": [DUMBELL_PRESS_LABEL_LIST, comment_to_int, sum],
     "哑铃侧平举": [LATERAL_DUMBELL_RAISE_LABEL_LIST, comment_to_int, sum],
+    "哑铃划船": [DUMBELL_ROW_LIST, comment_to_int, sum],
     "平板支撑": [PLANK_LABEL_LIST, comment_to_int, sum],
     "全蹲/深蹲": [SQUAT_LABEL_LIST, comment_to_int, sum],
     "冥想": [MEDITATION_LABEL_LIST, comment_to_int, sum],
