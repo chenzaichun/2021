@@ -19,6 +19,7 @@ MY_STATUS_DICT_FROM_COMMENTS = {
     "俯卧撑": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
     "卷腹": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
     "哑铃卧推": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
+    "哑铃划船": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
     "哑铃侧平举": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
     "平板支撑": {"daily_func": get_info_from_issue_comments, "unit_str": " (秒)"},
     "全蹲/深蹲": {"daily_func": get_info_from_issue_comments, "unit_str": " (个)"},
