@@ -10,11 +10,11 @@
 | [卷腹](https://github.com/chenzaichun/2021/issues/3) | 160 (个) | 0 | NO |
 | [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 1952 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 243 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 4110 (个) | 1 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 4110 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 320 (个) | 0 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 31 (天) | 23 | YES |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 32 (天) | 24 | YES |
 
 <!--END_SECTION:my_number-->
 
