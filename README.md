@@ -14,7 +14,7 @@
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 520 (个) | 0 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 36 (天) | 4 | YES |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 37 (天) | 5 | YES |
 
 <!--END_SECTION:my_number-->
 
