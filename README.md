@@ -12,9 +12,9 @@
 | [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 723 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 5010 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1020 (个) | 1 | YES |
+| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1020 (个) | 1 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 46 (天) | 14 | YES |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 47 (天) | 15 | YES |
 
 <!--END_SECTION:my_number-->
 
