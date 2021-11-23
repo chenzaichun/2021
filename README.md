@@ -8,13 +8,13 @@
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
 | [卷腹](https://github.com/chenzaichun/2021/issues/3) | 160 (个) | 0 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 3132 (个) | 1 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 3132 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 1203 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 5910 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1620 (个) | 1 | YES |
+| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1620 (个) | 1 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 59 (天) | 27 | YES |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 60 (天) | 28 | YES |
 
 <!--END_SECTION:my_number-->
 
