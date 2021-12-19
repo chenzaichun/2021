@@ -8,7 +8,7 @@
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
 | [卷腹](https://github.com/chenzaichun/2021/issues/3) | 160 (个) | 0 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 3612 (个) | 0 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 3852 (个) | 1 | YES |
 | [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 1923 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 7290 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 300 (秒) | 0 | NO |
