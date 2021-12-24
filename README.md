@@ -7,14 +7,14 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/chenzaichun/2021/issues/6) | 20 (个) | 0 | NO |
-| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 180 (个) | 1 | NO |
+| [卷腹](https://github.com/chenzaichun/2021/issues/3) | 180 (个) | 0 | NO |
 | [哑铃卧推](https://github.com/chenzaichun/2021/issues/5) | 3852 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 2139 (个) | 1 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 7560 (个) | 1 | YES |
-| [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 360 (秒) | 1 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1940 (个) | 1 | NO |
+| [哑铃划船](https://github.com/chenzaichun/2021/issues/15) | 2139 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2021/issues/4) | 7740 (个) | 1 | NO |
+| [平板支撑](https://github.com/chenzaichun/2021/issues/2) | 360 (秒) | 0 | NO |
+| [全蹲/深蹲](https://github.com/chenzaichun/2021/issues/1) | 1940 (个) | 0 | NO |
 | [冥想](https://github.com/chenzaichun/2021/issues/7) | 2 (分钟) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2021/issues/10) | 85 (天) | 12 | NO |
+| [早起](https://github.com/chenzaichun/2021/issues/10) | 86 (天) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
